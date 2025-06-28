@@ -74,7 +74,7 @@ const WorkerFooter = () => {
         <Link
           className="inline-flex items-center gap-1 text-blue-400 hover:text-blue-200 transition mt-2"
           onClick={() => {
-    window.location.href = "http://localhost:5173/"; // change to your desired host
+    window.location.href = "https://theaidgrid.netlify.app/"; // change to your desired host
   }}
         >
           The Aid Grid <ArrowRight className="w-4 h-4" />
