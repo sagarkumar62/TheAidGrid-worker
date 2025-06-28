@@ -1,7 +1,6 @@
 import React from 'react';
 import WorkerNavbar from '../components/WorkerNavbar';
 import { useNavigate } from 'react-router-dom';
-import Footer from '../../../Frontend-user/src/components/Home/Footer';
 import WorkerFooter from '../components/Footer';
 
 const WorkerHome = () => {
